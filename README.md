@@ -28,7 +28,7 @@ To see the live result, go to: http://135.125.205.162/supermon/link.php?nodes=49
 
 4- Enfin rafraichir la page web de Supermon.
 
-Pour voir le resulta en direct, allez a : http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891
+Pour voir le resulta en direct, allez a: http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891
 
 # 
 ![exemple-1](https://github.com/CN8VX/CSS-theme-for-supermon/assets/85073545/46a95c45-eda5-4a5f-97e1-c70085f97301)
