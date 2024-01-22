@@ -13,7 +13,7 @@ In addition you have the possibility to add a second logo by giving it the id="h
 
 4- Finally refresh the Supermon web page.
 
-To see the live result, go to: http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891
+To see the live result, go to: [AllStar Monitor for HUB M.A.R.R.I](http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891)
 
 # French: 
 # Thème pour Supermon
@@ -29,7 +29,7 @@ En plus vous avez la possibilité d’ajouter un deuxième logo en lui donnant l
 
 4- Enfin rafraichir la page web de Supermon.
 
-Pour voir le resulta en direct, allez a: http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891
+Pour voir le resulta en direct, allez a: [AllStar Monitor for HUB M.A.R.R.I](http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891)
 
 # 
 ![exemple-1](https://github.com/CN8VX/CSS-theme-for-supermon/assets/85073545/46a95c45-eda5-4a5f-97e1-c70085f97301)
