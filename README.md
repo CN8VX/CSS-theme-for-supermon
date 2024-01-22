@@ -1,9 +1,9 @@
-# CSS-theme-for-supermon
+# Theme for Supermon
 Theme for supermon which centers the tables and changes the color.
 
 In addition you have the possibility to add a second logo by giving it the id="headerImg2".
 
-# Thème en CSS pour Supermon
+# Thème pour Supermon
 Thème pour supermon qui centré les tableaux et change la couleur.
 
 En plus vous avez la possibilité d’ajouter un deuxième logo en lui donnant le id="headerImg2".
