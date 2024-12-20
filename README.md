@@ -31,7 +31,7 @@ To see the live result, go to: [AllStar Monitor for HUB M.A.R.R.I](http://135.12
 #
 # French: 
 # Thème pour Supermon
-Thème pour supermon qui centré les tableaux et change la couleur.
+Thème pour Supermon qui centre les tableaux et change la couleur.
 
 En plus vous avez la possibilité d’ajouter un deuxième logo en lui donnant le id="headerImg2".
 
