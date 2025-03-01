@@ -12,17 +12,17 @@ cd /var/www/html/supermon
 
 2- Then use the following command to directly upload the "supermon.css.cn8vxdarkcenter" file to the "supermon" directory
 ```
-curl -O https://raw.githubusercontent.com/CN8VX/CSS-theme-for-supermon/main/supermon.css.cn8vxdarkcenter
+sudo curl -O https://raw.githubusercontent.com/CN8VX/CSS-theme-for-supermon/main/supermon.css.cn8vxdarkcenter
 ```
 
 3- Rename "supermon.css" to another name, for example: supermon.css.old
 
 ```
-mv supermon.css supermon.css.old
+sudo mv supermon.css supermon.css.old
 ```
 4- Then rename "supermon.css.cn8vxdarkcenter" to "supermon.css"
 ```
-mv supermon.css.cn8vxdarkcenter supermon.css
+sudo mv supermon.css.cn8vxdarkcenter supermon.css
 ```
 
 5- Finally refresh the Supermon web page.
@@ -43,17 +43,17 @@ cd /var/www/html/supermon
 
 2- Ensuite, utilisez la commande suivantes pour télécharger directement le fichier "supermon.css.cn8vxdarkcenter" dans le répertoire "supermon"
 ```
-curl -O https://raw.githubusercontent.com/CN8VX/CSS-theme-for-supermon/main/supermon.css.cn8vxdarkcenter
+sudo curl -O https://raw.githubusercontent.com/CN8VX/CSS-theme-for-supermon/main/supermon.css.cn8vxdarkcenter
 ```
 
 3- Renommez "supermon.css" par un autre nom, exemple : supermon.css.old
 ```
-mv supermon.css supermon.css.old
+sudo mv supermon.css supermon.css.old
 ```
 
 4- Puis renommez "supermon.css.cn8vxdarkcenter" par "supermon.css"
 ```
-mv supermon.css.cn8vxdarkcenter supermon.css
+sudo mv supermon.css.cn8vxdarkcenter supermon.css
 ```
 
 5- Enfin rafraichir la page web de Supermon.
