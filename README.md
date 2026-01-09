@@ -27,7 +27,6 @@ sudo mv supermon.css.cn8vxdarkcenter supermon.css
 
 5- Finally refresh the Supermon web page.
 
-To see the live result, go to: [AllStar Monitor for HUB M.A.R.R.I](http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891)
 #
 # French: 
 # Thème pour Supermon
@@ -57,8 +56,6 @@ sudo mv supermon.css.cn8vxdarkcenter supermon.css
 ```
 
 5- Enfin rafraichir la page web de Supermon.
-
-Pour voir le resulta en direct, allez a: [AllStar Monitor for HUB M.A.R.R.I](http://135.125.205.162/supermon/link.php?nodes=492510,492511,58998,590820,588891)
 
 # 
 ![exemple-1](https://github.com/CN8VX/CSS-theme-for-supermon/assets/85073545/46a95c45-eda5-4a5f-97e1-c70085f97301)
