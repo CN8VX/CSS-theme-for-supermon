@@ -1,7 +1,6 @@
 /* CSS file modified by CN8VX, Youness.
 It is to have a more relaxing view that I chose the dark color and to fill the empty spaces I put the tables in the center of the page.
 We can even add a second logo.
-To see the result you can go to the site: http://135.125.205.162/supermon/link.php?nodes=492510,492511,590820,588891 */
 
 .nodeNum {
     margin: 5px;
